@@ -1,4 +1,2 @@
-# app-ads.txt for DZ CIO Insights
-# For AdMob configuration
 
 google.com, pub-9973435196902975, DIRECT, f08c47fec0942fa0

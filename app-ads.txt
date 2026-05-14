@@ -1,0 +1,7 @@
+# app-ads.txt for DZ CIO Insights
+# For AdMob configuration
+# Add your AdMob seller ID and authorized resellers here
+
+# Format: platform, seller_id, seller_type, [tag_id]
+# Example:
+# google.com, ca-app-pub-xxxxxxxxxxxxxxxx, DIRECT, [tag_id]
